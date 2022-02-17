@@ -1,6 +1,7 @@
-#!/usr/local/bin/perl -Tw
+#!/usr/bin/perl -Tw
 
 use strict;
+use warnings;
 use CGI;
 
 my($cgi) = new CGI;
